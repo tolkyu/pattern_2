@@ -1,0 +1,2 @@
+# pattern_2
+Implement the Multiton pattern, which allows you to create only a certain number of class instances. For example, we have IP cameras, each of which has its own unique IP address. We can add only one IP video camera with a specific IP address. To access a specific instance of a class, a static method is used that takes a key as a parameter. If a video camera with the specified address is already present, the method should return an existing instance of the IP video camera.
